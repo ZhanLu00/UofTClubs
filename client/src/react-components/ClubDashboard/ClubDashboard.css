@@ -1,0 +1,14 @@
+.clubDashboardContainer{
+    margin-top: 12vh;
+    margin-left: 5vw; 
+}
+
+.centeredText{
+    text-align:center; 
+    margin: 0 auto; 
+}
+
+.picture{ 
+    margin: 10px;
+    height:100px;
+}

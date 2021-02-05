@@ -1,0 +1,34 @@
+#clubCreationForm {
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    margin-left: 42vw;
+}
+
+#titleText {
+    color: black;
+    margin-top: 12vh;
+    margin-left: 38vw;
+    font-size: 35pt;
+    font-weight: bold;
+}
+
+.dupNameErrorSpan {
+    color:red;
+    margin-left: 45%;
+    top: 10%;
+    position: relative;
+    display: block;
+}
+
+.clubCreatedSpan {
+    color:green;
+    margin-left: 45%;
+    top: 10%;
+    position: relative;
+    display: block;
+}
+
+#messageDiv {
+    margin-top: 45px;
+}
